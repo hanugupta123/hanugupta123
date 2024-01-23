@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📚 I'm currently learning I’m currently learning Web Development and other programming languages<br>🎯 Goals: Innovation, Professional Growth, Leadership, Problem-Solving</p>
+<p align="left">📚 I’m currently learning Web Development and other programming languages<br>🎯 Goals: Innovation, Professional Growth, Leadership, Problem-Solving</p>
 
 ###
 
